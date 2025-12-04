@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcH</string>
+    <string name="calcule_h">Cálculo da Série H</string>
+    <string name="Num_termos_n">Digite o número de termos (n)</string>
+    <string name="calcular_h">Calcular H</string>
+    <string name="resultado">Resultado:</string>
+    <string name="erro_digite_valor">Por favor, digite um valor.</string>
+    <string name="erro_intervalo">O número deve ser entre 1 e 20.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalcH</string>
+    <string name="calcule_h">Calculation the H-Series</string>
+    <string name="Num_termos_n">Enter the number of terms (n)</string>
+    <string name="calcular_h">Calculate H</string>
+    <string name="resultado">Result:</string>
+    <string name="erro_digite_valor">Please enter a value.</string>
+    <string name="erro_intervalo">The number must be between 1 and 20.</string>
+</resources>
